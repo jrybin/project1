@@ -23,5 +23,3 @@ hist(data$Global_active_power, main="Global Active Power",
 # Saving plot #1 to file.
 dev.copy(png, file="plot1.png", height=480, width=480)
 dev.off()
-
-### Here comes the change. Buuhoo!
